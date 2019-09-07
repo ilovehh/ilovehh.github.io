@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iloveHh</title>
+  
+  <subtitle>For love</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-07T16:47:54.718Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>陈雷明</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/09/04/%E6%A8%A1%E6%9D%BF/"/>
+    <id>http://yoursite.com/2019/09/04/模板/</id>
+    <published>2019-09-04T11:25:51.885Z</published>
+    <updated>2019-09-07T16:47:54.718Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Welcome-to-MarkdownPad-2&quot;&gt;&lt;a href=&quot;#Welcome-to-MarkdownPad-2&quot; class=&quot;headerlink&quot; title=&quot;Welcome to MarkdownPad 2&quot;&gt;&lt;/a&gt;Welcome to MarkdownPad 2&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;MarkdownPad&lt;/strong&gt; is a full-featured Markdown editor for Windows.&lt;/p&gt;
+&lt;h3 id=&quot;Built-exclusively-for-Markdown&quot;&gt;&lt;a href=&quot;#Built-exclusively-for-Markdown&quot; class=&quot;headerlink&quot; title=&quot;Built exclusively for Markdown&quot;&gt;&lt;/a&gt;Built exclusively for Markdown&lt;/h3&gt;&lt;p&gt;Enjoy first-class Markdown support with easy access to  Markdown syntax and convenient keyboard shortcuts.&lt;/p&gt;
+&lt;p&gt;Give them a try:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt; (&lt;code&gt;Ctrl+B&lt;/code&gt;) and &lt;em&gt;Italic&lt;/em&gt; (&lt;code&gt;Ctrl+I&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Quotes (&lt;code&gt;Ctrl+Q&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Code blocks (&lt;code&gt;Ctrl+K&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Headings 1, 2, 3 (&lt;code&gt;Ctrl+1&lt;/code&gt;, &lt;code&gt;Ctrl+2&lt;/code&gt;, &lt;code&gt;Ctrl+3&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Lists (&lt;code&gt;Ctrl+U&lt;/code&gt; and &lt;code&gt;Ctrl+Shift+O&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;See-your-changes-instantly-with-LivePreview&quot;&gt;&lt;a href=&quot;#See-your-changes-instantly-with-LivePreview&quot; class=&quot;headerlink&quot; title=&quot;See your changes instantly with LivePreview&quot;&gt;&lt;/a&gt;See your changes instantly with LivePreview&lt;/h3&gt;&lt;p&gt;Don’t guess if your &lt;a href=&quot;http://markdownpad.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hyperlink syntax&lt;/a&gt; is correct; LivePreview will show you exactly what your document looks like every time you press a key.&lt;/p&gt;
+&lt;h3 id=&quot;Make-it-your-own&quot;&gt;&lt;a href=&quot;#Make-it-your-own&quot; class=&quot;headerlink&quot; title=&quot;Make it your own&quot;&gt;&lt;/a&gt;Make it your own&lt;/h3&gt;&lt;p&gt;Fonts, color schemes, layouts and stylesheets are all 100% customizable so you can turn MarkdownPad into your perfect editor.&lt;/p&gt;
+&lt;h3 id=&quot;A-robust-editor-for-advanced-Markdown-users&quot;&gt;&lt;a href=&quot;#A-robust-editor-for-advanced-Markdown-users&quot; class=&quot;headerlink&quot; title=&quot;A robust editor for advanced Markdown users&quot;&gt;&lt;/a&gt;A robust editor for advanced Markdown users&lt;/h3&gt;&lt;p&gt;MarkdownPad supports multiple Markdown processing engines, including standard Markdown, Markdown Extra (with Table support) and GitHub Flavored Markdown.&lt;/p&gt;
+&lt;p&gt;With a tabbed document interface, PDF export, a built-in image uploader, session management, spell check, auto-save, syntax highlighting and a built-in CSS management interface, there’s no limit to what you can do with MarkdownPad.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/09/03/test/"/>
+    <id>http://yoursite.com/2019/09/03/test/</id>
+    <published>2019-09-03T09:48:56.608Z</published>
+    <updated>2019-09-07T16:47:41.003Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Welcome-to-MarkdownPad-2中文测试标题&quot;&gt;&lt;a href=&quot;#Welcome-to-MarkdownPad-2中文测试标题&quot; class=&quot;headerlink&quot; title=&quot;Welcome to MarkdownPad 2中文测试标题&quot;&gt;&lt;/a&gt;Welcome to MarkdownPad 2中文测试标题&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;MarkdownPad中文测试&lt;/strong&gt; is a full-featured Markdown editor for Windows.中文测试&lt;/p&gt;
+&lt;h3 id=&quot;Built-exclusively-for-Markdown中文测试&quot;&gt;&lt;a href=&quot;#Built-exclusively-for-Markdown中文测试&quot; class=&quot;headerlink&quot; title=&quot;Built exclusively for Markdown中文测试&quot;&gt;&lt;/a&gt;Built exclusively for Markdown中文测试&lt;/h3&gt;&lt;p&gt;Enjoy first-class Markdown support with easy access to  Markdown syntax and convenient keyboard shortcuts.中文测试&lt;/p&gt;
+&lt;p&gt;Give them a try:中文测试&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt; (&lt;code&gt;Ctrl+B&lt;/code&gt;) and &lt;em&gt;Italic&lt;/em&gt; (&lt;code&gt;Ctrl+I&lt;/code&gt;)中文测试&lt;/li&gt;
+&lt;li&gt;Quotes (&lt;code&gt;Ctrl+Q&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Code blocks (&lt;code&gt;Ctrl+K&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Headings 1, 2, 3 (&lt;code&gt;Ctrl+1&lt;/code&gt;, &lt;code&gt;Ctrl+2&lt;/code&gt;, &lt;code&gt;Ctrl+3&lt;/code&gt;)中文测试&lt;/li&gt;
+&lt;li&gt;Lists (&lt;code&gt;Ctrl+U&lt;/code&gt; and &lt;code&gt;Ctrl+Shift+O&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;See-your-changes-instantly-with-LivePreview-中文测试&quot;&gt;&lt;a href=&quot;#See-your-changes-instantly-with-LivePreview-中文测试&quot; class=&quot;headerlink&quot; title=&quot;See your changes instantly with LivePreview ###中文测试&quot;&gt;&lt;/a&gt;See your changes instantly with LivePreview ###中文测试&lt;/h3&gt;&lt;p&gt;Don’t guess if your &lt;a href=&quot;http://markdownpad.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hyperlink syntax&lt;/a&gt; is correct; LivePreview will show you exactly what your document looks like every time you press a key.中文测试&lt;/p&gt;
+&lt;h3 id=&quot;Make-it-your-own-中文测试&quot;&gt;&lt;a href=&quot;#Make-it-your-own-中文测试&quot; class=&quot;headerlink&quot; title=&quot;Make it your own ###中文测试&quot;&gt;&lt;/a&gt;Make it your own ###中文测试&lt;/h3&gt;&lt;p&gt;Fonts, color schemes, layouts and stylesheets are all 100% customizable so you can turn MarkdownPad into your perfect editor.&lt;/p&gt;
+&lt;h3 id=&quot;A-robust-editor-for-advanced-Markdown-users&quot;&gt;&lt;a href=&quot;#A-robust-editor-for-advanced-Markdown-users&quot; class=&quot;headerlink&quot; title=&quot;A robust editor for advanced Markdown users&quot;&gt;&lt;/a&gt;A robust editor for advanced Markdown users&lt;/h3&gt;&lt;p&gt;MarkdownPad supports multiple Markdown processing engines, including standard Markdown, Markdown Extra (with Table support) and GitHub Flavored Markdown.中文测试&lt;/p&gt;
+&lt;p&gt;With a tabbed document interface, PDF export, a built-in image uploader, session management, spell check, auto-save, syntax highlighting and a built-in CSS management interface, there’s no limit to what you can do with MarkdownPad.中文测试&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
