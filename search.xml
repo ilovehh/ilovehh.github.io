@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[标题]]></title>
+    <url>%2F2019%2F09%2F11%2Fpage%2F</url>
+    <content type="text"><![CDATA[正文]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>标签</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>%2F2019%2F09%2F09%2F%E6%B5%8B%E8%AF%95%2F</url>
     <content type="text"><![CDATA[我爱涵涵孙小涵 1995年12月11日生人，水瓶座 ![](C:\1_Data\Blog ilovehh\source\images) 涵涵是小傻瓜涵涵非常傻非常可爱，是个十足的小傻瓜 涵涵 (善良) 可爱 (傻) 善良 可爱 傻 我爱你傻涵涵]]></content>
