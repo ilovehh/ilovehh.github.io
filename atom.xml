@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-16T01:29:26.203Z</updated>
+  <updated>2019-09-16T10:57:19.385Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/09/09/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/2019/09/09/测试/</id>
-    <published>2019-09-09T11:51:27.003Z</published>
-    <updated>2019-09-16T01:29:26.203Z</updated>
+    <title>github</title>
+    <link href="http://yoursite.com/2019/09/12/page/"/>
+    <id>http://yoursite.com/2019/09/12/page/</id>
+    <published>2019-09-11T16:00:00.000Z</published>
+    <updated>2019-09-16T10:57:19.385Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;正文&lt;br&gt;&lt;img src=&quot;https://github.com/ilovehh/picture/img/flower.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;https://github.com/ilovehh/picture/blob/master/img/f
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="标签" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>标题</title>
+    <link href="http://yoursite.com/2019/09/11/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2019/09/11/测试/</id>
+    <published>2019-09-10T16:00:00.000Z</published>
+    <updated>2019-09-16T07:23:20.589Z</updated>
     
     <summary type="html">
     
@@ -34,6 +58,10 @@
     </summary>
     
     
+      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="标签" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
